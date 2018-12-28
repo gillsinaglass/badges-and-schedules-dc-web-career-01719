@@ -4,4 +4,4 @@ end
 
 def batch_badge_creator(speaker)
   badge = []
-  
+  speaker.each
