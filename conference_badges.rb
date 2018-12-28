@@ -4,4 +4,5 @@ end
 
 def batch_badge_creator(speaker)
   badge = []
-  speaker.each
+  speaker.each do |name|
+    badge.push()
